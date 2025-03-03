@@ -1,0 +1,9 @@
+a:link{
+    align-items: center;
+    color: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    font-weight: 2;
+    text-decoration: underline;
+    text-decoration-thickness: 2px ;
+}
