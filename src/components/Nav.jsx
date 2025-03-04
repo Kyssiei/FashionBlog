@@ -3,14 +3,14 @@
 
 function Nav() {
     return(
-      <nav style={{display: "flex", justifyContent: "space-around", alignItems: "center", width: "1000px", }}>
+      <nav style={{display: "flex", justifyContent: "space-around", alignItems: "center", width: "100%", }}>
         
-        <a className="woman" href="#">Women's</a>
-        <a href="#">Men's</a>
-        <a href="#">On the Street</a>
-        <a href="#">The Catwalk</a>
-        <a href="#">AdWatch</a>
-        <a href="#">About</a>
+        <a className="nav" href="#">Women's</a>
+        <a className="nav" href="#">Men's</a>
+        <a className="nav" href="#">On the Street</a>
+        <a className="nav" href="#">The Catwalk</a>
+        <a className="nav" href="#">AdWatch</a>
+        <a className="nav" href="#">About</a>
 
       </nav>  
     )
